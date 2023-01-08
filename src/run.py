@@ -3,4 +3,4 @@
 from initializer import Initializer
 
 d = Initializer()
-d.init_orientdb()
+d.init_neo4j()
