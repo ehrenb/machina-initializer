@@ -21,19 +21,20 @@ class Initializer(Worker):
 
         # TEST inputs
 
-        # ts = datetime.now()
-        # md5sum = 'test123'
-        # sha256sum = 'test456'
-        # type = 'testtype'
-        # size=12345
+        # for i in range(0,10):
+        #     ts = datetime.now()
+        #     md5sum = 'test123'
+        #     sha256sum = 'test456'
+        #     type = 'testtype'
+        #     size=12345
 
-        # art = Artifact(
-        #     md5=md5sum,
-        #     sha256=sha256sum,
-        #     ts=ts,
-        #     size=size,
-        #     type=type
-        # ).save()
+        #     art = Artifact(
+        #         md5=md5sum,
+        #         sha256=sha256sum,
+        #         ts=ts,
+        #         size=size,
+        #         type=type
+        #     ).save()
 
         # test = PNG(
         #     md5=md5sum,
